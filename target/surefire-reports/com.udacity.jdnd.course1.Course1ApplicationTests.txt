@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.udacity.jdnd.course1.Course1ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.542 s <<< FAILURE! - in com.udacity.jdnd.course1.Course1ApplicationTests
+testFizzBuzz  Time elapsed: 0.438 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Expected java.lang.IllegalArgumentException to be thrown, but nothing was thrown.
+	at com.udacity.jdnd.course1.Course1ApplicationTests.testFizzBuzz(Course1ApplicationTests.java:34)
+
